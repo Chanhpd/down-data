@@ -1,0 +1,1468 @@
+{
+  "exam_id": "H21003",
+  "exam_title": "HSK Level 2 - H21003 Complete Exam",
+  "exam_level": 2,
+  "total_questions": 60,
+  "total_time_minutes": 47,
+  "sections": [
+    {
+      "section_type": "listening",
+      "section_title": "听力 (Listening)",
+      "exam_url": "https://mandarinbean.com/h21003-listening/",
+      "audio_file": "https://traffic.libsyn.com/secure/learnchinese/H21003.mp3",
+      "time_limit_minutes": 25,
+      "question_range": "Q1-Q35",
+      "total_parts": 4,
+      "total_questions": 35,
+      "parts": [
+        {
+          "part_number": 1,
+          "part_title": "第一部分",
+          "description": "第 1-10 题",
+          "question_type": "TRUE_FALSE",
+          "instructions": "判断对错",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_text": "Question 1",
+              "image": null,
+              "options": [
+                {
+                  "option": "TRUE",
+                  "text": "TRUE"
+                },
+                {
+                  "option": "FALSE",
+                  "text": "FALSE"
+                }
+              ],
+              "correct_answer": "True",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_1.jpg"
+            },
+            {
+              "question_number": 2,
+              "question_text": "Question 2",
+              "image": null,
+              "options": [
+                {
+                  "option": "TRUE",
+                  "text": "TRUE"
+                },
+                {
+                  "option": "FALSE",
+                  "text": "FALSE"
+                }
+              ],
+              "correct_answer": "False",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_2.jpg"
+            },
+            {
+              "question_number": 3,
+              "question_text": "Question 3",
+              "image": null,
+              "options": [
+                {
+                  "option": "TRUE",
+                  "text": "TRUE"
+                },
+                {
+                  "option": "FALSE",
+                  "text": "FALSE"
+                }
+              ],
+              "correct_answer": "True",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_3.jpg"
+            },
+            {
+              "question_number": 4,
+              "question_text": "Question 4",
+              "image": null,
+              "options": [
+                {
+                  "option": "TRUE",
+                  "text": "TRUE"
+                },
+                {
+                  "option": "FALSE",
+                  "text": "FALSE"
+                }
+              ],
+              "correct_answer": "True",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_4.jpg"
+            },
+            {
+              "question_number": 5,
+              "question_text": "Question 5",
+              "image": null,
+              "options": [
+                {
+                  "option": "TRUE",
+                  "text": "TRUE"
+                },
+                {
+                  "option": "FALSE",
+                  "text": "FALSE"
+                }
+              ],
+              "correct_answer": "True",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_5.jpg"
+            },
+            {
+              "question_number": 6,
+              "question_text": "Question 6",
+              "image": null,
+              "options": [
+                {
+                  "option": "TRUE",
+                  "text": "TRUE"
+                },
+                {
+                  "option": "FALSE",
+                  "text": "FALSE"
+                }
+              ],
+              "correct_answer": "False",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_6.jpg"
+            },
+            {
+              "question_number": 7,
+              "question_text": "Question 7",
+              "image": null,
+              "options": [
+                {
+                  "option": "TRUE",
+                  "text": "TRUE"
+                },
+                {
+                  "option": "FALSE",
+                  "text": "FALSE"
+                }
+              ],
+              "correct_answer": "False",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_7.jpg"
+            },
+            {
+              "question_number": 8,
+              "question_text": "Question 8",
+              "image": null,
+              "options": [
+                {
+                  "option": "TRUE",
+                  "text": "TRUE"
+                },
+                {
+                  "option": "FALSE",
+                  "text": "FALSE"
+                }
+              ],
+              "correct_answer": "True",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_8.jpg"
+            },
+            {
+              "question_number": 9,
+              "question_text": "Question 9",
+              "image": null,
+              "options": [
+                {
+                  "option": "TRUE",
+                  "text": "TRUE"
+                },
+                {
+                  "option": "FALSE",
+                  "text": "FALSE"
+                }
+              ],
+              "correct_answer": "False",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_9.jpg"
+            },
+            {
+              "question_number": 10,
+              "question_text": "Question 10",
+              "image": null,
+              "options": [
+                {
+                  "option": "TRUE",
+                  "text": "TRUE"
+                },
+                {
+                  "option": "FALSE",
+                  "text": "FALSE"
+                }
+              ],
+              "correct_answer": "False",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_10.jpg"
+            }
+          ]
+        },
+        {
+          "part_number": 2,
+          "part_title": "第二部分",
+          "description": "第 11-25 题 (2 sub-parts)",
+          "question_type": "MULTIPLE_CHOICE_DIALOGUE",
+          "instructions": "听对话选择",
+          "sub_parts": [
+            {
+              "sub_part": "11-15",
+              "description": "第 11-15 题",
+              "questions": [
+                {
+                  "question_number": 11,
+                  "question_text": "Question 11",
+                  "dialogue": null,
+                  "image": null,
+                  "options": [
+                    {
+                      "option": "A",
+                      "text": "A"
+                    },
+                    {
+                      "option": "B",
+                      "text": "B"
+                    },
+                    {
+                      "option": "C",
+                      "text": "C"
+                    },
+                    {
+                      "option": "D",
+                      "text": "D"
+                    },
+                    {
+                      "option": "E",
+                      "text": "E"
+                    },
+                    {
+                      "option": "F",
+                      "text": "F"
+                    }
+                  ],
+                  "correct_answer": "A",
+                  "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_11.jpg"
+                },
+                {
+                  "question_number": 12,
+                  "question_text": "Question 12",
+                  "dialogue": null,
+                  "image": null,
+                  "options": [
+                    {
+                      "option": "A",
+                      "text": "A"
+                    },
+                    {
+                      "option": "B",
+                      "text": "B"
+                    },
+                    {
+                      "option": "C",
+                      "text": "C"
+                    },
+                    {
+                      "option": "D",
+                      "text": "D"
+                    },
+                    {
+                      "option": "E",
+                      "text": "E"
+                    },
+                    {
+                      "option": "F",
+                      "text": "F"
+                    }
+                  ],
+                  "correct_answer": "E",
+                  "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_12.jpg"
+                },
+                {
+                  "question_number": 13,
+                  "question_text": "Question 13",
+                  "dialogue": null,
+                  "image": null,
+                  "options": [
+                    {
+                      "option": "A",
+                      "text": "A"
+                    },
+                    {
+                      "option": "B",
+                      "text": "B"
+                    },
+                    {
+                      "option": "C",
+                      "text": "C"
+                    },
+                    {
+                      "option": "D",
+                      "text": "D"
+                    },
+                    {
+                      "option": "E",
+                      "text": "E"
+                    },
+                    {
+                      "option": "F",
+                      "text": "F"
+                    }
+                  ],
+                  "correct_answer": "F",
+                  "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_13.jpg"
+                },
+                {
+                  "question_number": 14,
+                  "question_text": "Question 14",
+                  "dialogue": null,
+                  "image": null,
+                  "options": [
+                    {
+                      "option": "A",
+                      "text": "A"
+                    },
+                    {
+                      "option": "B",
+                      "text": "B"
+                    },
+                    {
+                      "option": "C",
+                      "text": "C"
+                    },
+                    {
+                      "option": "D",
+                      "text": "D"
+                    },
+                    {
+                      "option": "E",
+                      "text": "E"
+                    },
+                    {
+                      "option": "F",
+                      "text": "F"
+                    }
+                  ],
+                  "correct_answer": "B",
+                  "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_14.jpg"
+                },
+                {
+                  "question_number": 15,
+                  "question_text": "Question 15",
+                  "dialogue": null,
+                  "image": null,
+                  "options": [
+                    {
+                      "option": "A",
+                      "text": "A"
+                    },
+                    {
+                      "option": "B",
+                      "text": "B"
+                    },
+                    {
+                      "option": "C",
+                      "text": "C"
+                    },
+                    {
+                      "option": "D",
+                      "text": "D"
+                    },
+                    {
+                      "option": "E",
+                      "text": "E"
+                    },
+                    {
+                      "option": "F",
+                      "text": "F"
+                    }
+                  ],
+                  "correct_answer": "C",
+                  "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_15.jpg"
+                }
+              ]
+            },
+            {
+              "sub_part": "16-20",
+              "description": "第 16-20 题",
+              "questions": [
+                {
+                  "question_number": 16,
+                  "question_text": "Question 16",
+                  "dialogue": null,
+                  "image": null,
+                  "options": [
+                    {
+                      "option": "A",
+                      "text": "A"
+                    },
+                    {
+                      "option": "B",
+                      "text": "B"
+                    },
+                    {
+                      "option": "C",
+                      "text": "C"
+                    },
+                    {
+                      "option": "D",
+                      "text": "D"
+                    },
+                    {
+                      "option": "E",
+                      "text": "E"
+                    },
+                    {
+                      "option": "F",
+                      "text": "F"
+                    }
+                  ],
+                  "correct_answer": "A",
+                  "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_16.jpg"
+                },
+                {
+                  "question_number": 17,
+                  "question_text": "Question 17",
+                  "dialogue": null,
+                  "image": null,
+                  "options": [
+                    {
+                      "option": "A",
+                      "text": "A"
+                    },
+                    {
+                      "option": "B",
+                      "text": "B"
+                    },
+                    {
+                      "option": "C",
+                      "text": "C"
+                    },
+                    {
+                      "option": "D",
+                      "text": "D"
+                    },
+                    {
+                      "option": "E",
+                      "text": "E"
+                    },
+                    {
+                      "option": "F",
+                      "text": "F"
+                    }
+                  ],
+                  "correct_answer": "E",
+                  "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_17.jpg"
+                },
+                {
+                  "question_number": 18,
+                  "question_text": "Question 18",
+                  "dialogue": null,
+                  "image": null,
+                  "options": [
+                    {
+                      "option": "A",
+                      "text": "A"
+                    },
+                    {
+                      "option": "B",
+                      "text": "B"
+                    },
+                    {
+                      "option": "C",
+                      "text": "C"
+                    },
+                    {
+                      "option": "D",
+                      "text": "D"
+                    },
+                    {
+                      "option": "E",
+                      "text": "E"
+                    },
+                    {
+                      "option": "F",
+                      "text": "F"
+                    }
+                  ],
+                  "correct_answer": "D",
+                  "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_18.jpg"
+                },
+                {
+                  "question_number": 19,
+                  "question_text": "Question 19",
+                  "dialogue": null,
+                  "image": null,
+                  "options": [
+                    {
+                      "option": "A",
+                      "text": "A"
+                    },
+                    {
+                      "option": "B",
+                      "text": "B"
+                    },
+                    {
+                      "option": "C",
+                      "text": "C"
+                    },
+                    {
+                      "option": "D",
+                      "text": "D"
+                    },
+                    {
+                      "option": "E",
+                      "text": "E"
+                    },
+                    {
+                      "option": "F",
+                      "text": "F"
+                    }
+                  ],
+                  "correct_answer": "C",
+                  "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_19.jpg"
+                },
+                {
+                  "question_number": 20,
+                  "question_text": "Question 20",
+                  "dialogue": null,
+                  "image": null,
+                  "options": [
+                    {
+                      "option": "A",
+                      "text": "A"
+                    },
+                    {
+                      "option": "B",
+                      "text": "B"
+                    },
+                    {
+                      "option": "C",
+                      "text": "C"
+                    },
+                    {
+                      "option": "D",
+                      "text": "D"
+                    },
+                    {
+                      "option": "E",
+                      "text": "E"
+                    },
+                    {
+                      "option": "F",
+                      "text": "F"
+                    }
+                  ],
+                  "correct_answer": "B",
+                  "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_20.jpg"
+                }
+              ]
+            }
+          ],
+          "questions": []
+        },
+        {
+          "part_number": 3,
+          "part_title": "第三部分",
+          "description": "第 21-30 题",
+          "question_type": "MULTIPLE_CHOICE_TEXT",
+          "instructions": "听短文选择正确答案",
+          "questions": [
+            {
+              "question_number": 21,
+              "question_text": "Question 21",
+              "passage": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "B. 运动yùndòng",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_21.jpg"
+            },
+            {
+              "question_number": 22,
+              "question_text": "Question 22",
+              "passage": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "A. 很 贵hěn guì",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_22.jpg"
+            },
+            {
+              "question_number": 23,
+              "question_text": "Question 23",
+              "passage": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "B. 8 点 40 分diǎn fēn",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_23.jpg"
+            },
+            {
+              "question_number": 24,
+              "question_text": "Question 24",
+              "passage": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "B. 商店shāngdiàn",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_24.jpg"
+            },
+            {
+              "question_number": 25,
+              "question_text": "Question 25",
+              "passage": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "C. 他儿子tā érzi",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_25.jpg"
+            },
+            {
+              "question_number": 26,
+              "question_text": "Question 26",
+              "passage": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "A. 菜cài",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_26.jpg"
+            },
+            {
+              "question_number": 27,
+              "question_text": "Question 27",
+              "passage": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "C. 想 看 电影xiǎng kàn diànyǐng",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_27.jpg"
+            },
+            {
+              "question_number": 28,
+              "question_text": "Question 28",
+              "passage": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "A. 手机shǒujī",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_28.jpg"
+            },
+            {
+              "question_number": 29,
+              "question_text": "Question 29",
+              "passage": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "B. 朋友péngyou",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_29.jpg"
+            },
+            {
+              "question_number": 30,
+              "question_text": "Question 30",
+              "passage": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "C. 住 得 不 远zhù de bù yuǎn",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_30.jpg"
+            }
+          ]
+        },
+        {
+          "part_number": 4,
+          "part_title": "第四部分",
+          "description": "第 31-35 题",
+          "question_type": "COMPREHENSION",
+          "instructions": "听对话或短文回答问题",
+          "questions": [
+            {
+              "question_number": 31,
+              "question_text": "Question 31",
+              "passage": null,
+              "question": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "C. 非常 好fēicháng hǎo",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_31.jpg"
+            },
+            {
+              "question_number": 32,
+              "question_text": "Question 32",
+              "passage": null,
+              "question": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "A. 送 她sòng tā",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_32.jpg"
+            },
+            {
+              "question_number": 33,
+              "question_text": "Question 33",
+              "passage": null,
+              "question": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "B. 少 买 些shǎo mǎi xiē",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_33.jpg"
+            },
+            {
+              "question_number": 34,
+              "question_text": "Question 34",
+              "passage": null,
+              "question": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "C. 打 错 电话 了dǎ cuò diànhuà le",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_34.jpg"
+            },
+            {
+              "question_number": 35,
+              "question_text": "Question 35",
+              "passage": null,
+              "question": null,
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Option A"
+                },
+                {
+                  "option": "B",
+                  "text": "Option B"
+                },
+                {
+                  "option": "C",
+                  "text": "Option C"
+                }
+              ],
+              "correct_answer": "A. 同学tóngxué",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_35.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_type": "reading",
+      "section_title": "阅读 (Reading)",
+      "exam_url": "https://mandarinbean.com/h21003-reading/",
+      "audio_file": null,
+      "time_limit_minutes": 22,
+      "question_range": "Q36-Q60",
+      "total_parts": 4,
+      "total_questions": 25,
+      "parts": [
+        {
+          "part_number": 1,
+          "part_title": "第一部分",
+          "description": "第 36-40 题",
+          "question_type": "SENTENCE_PICTURE_MATCH",
+          "instructions": "看图选择正确的句子",
+          "questions": [
+            {
+              "question_number": 36,
+              "question_text": "Question 36",
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Sentence A"
+                },
+                {
+                  "option": "B",
+                  "text": "Sentence B"
+                }
+              ],
+              "correct_answer": "F",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_36.jpg"
+            },
+            {
+              "question_number": 37,
+              "question_text": "Question 37",
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Sentence A"
+                },
+                {
+                  "option": "B",
+                  "text": "Sentence B"
+                }
+              ],
+              "correct_answer": "C",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_37.jpg"
+            },
+            {
+              "question_number": 38,
+              "question_text": "Question 38",
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Sentence A"
+                },
+                {
+                  "option": "B",
+                  "text": "Sentence B"
+                }
+              ],
+              "correct_answer": "B",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_38.jpg"
+            },
+            {
+              "question_number": 39,
+              "question_text": "Question 39",
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Sentence A"
+                },
+                {
+                  "option": "B",
+                  "text": "Sentence B"
+                }
+              ],
+              "correct_answer": "E",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_39.jpg"
+            },
+            {
+              "question_number": 40,
+              "question_text": "Question 40",
+              "image": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Sentence A"
+                },
+                {
+                  "option": "B",
+                  "text": "Sentence B"
+                }
+              ],
+              "correct_answer": "A",
+              "image_url": "https://mandarinbean.com/wp-content/uploads/2020/12/h2_40.jpg"
+            }
+          ]
+        },
+        {
+          "part_number": 2,
+          "part_title": "第二部分",
+          "description": "第 41-45 题",
+          "question_type": "SENTENCE_COMPLETION",
+          "instructions": "选词填空",
+          "questions": [
+            {
+              "question_number": 41,
+              "question_text": "Question 41",
+              "sentence": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Word A"
+                },
+                {
+                  "option": "B",
+                  "text": "Word B"
+                },
+                {
+                  "option": "C",
+                  "text": "Word C"
+                }
+              ],
+              "correct_answer": "F 雪xuě"
+            },
+            {
+              "question_number": 42,
+              "question_text": "Question 42",
+              "sentence": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Word A"
+                },
+                {
+                  "option": "B",
+                  "text": "Word B"
+                },
+                {
+                  "option": "C",
+                  "text": "Word C"
+                }
+              ],
+              "correct_answer": "C 题tí"
+            },
+            {
+              "question_number": 43,
+              "question_text": "Question 43",
+              "sentence": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Word A"
+                },
+                {
+                  "option": "B",
+                  "text": "Word B"
+                },
+                {
+                  "option": "C",
+                  "text": "Word C"
+                }
+              ],
+              "correct_answer": "A 一起 yìqǐ"
+            },
+            {
+              "question_number": 44,
+              "question_text": "Question 44",
+              "sentence": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Word A"
+                },
+                {
+                  "option": "B",
+                  "text": "Word B"
+                },
+                {
+                  "option": "C",
+                  "text": "Word C"
+                }
+              ],
+              "correct_answer": "D 号hào"
+            },
+            {
+              "question_number": 45,
+              "question_text": "Question 45",
+              "sentence": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Word A"
+                },
+                {
+                  "option": "B",
+                  "text": "Word B"
+                },
+                {
+                  "option": "C",
+                  "text": "Word C"
+                }
+              ],
+              "correct_answer": "B 西瓜xīguā"
+            }
+          ]
+        },
+        {
+          "part_number": 3,
+          "part_title": "第三部分",
+          "description": "第 46-50 题",
+          "question_type": "DIALOGUE_COMPLETION",
+          "instructions": "选择合适的句子完成对话",
+          "questions": [
+            {
+              "question_number": 46,
+              "question_text": "Question 46",
+              "dialogue": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Response A"
+                },
+                {
+                  "option": "B",
+                  "text": "Response B"
+                },
+                {
+                  "option": "C",
+                  "text": "Response C"
+                }
+              ],
+              "correct_answer": "TRUE"
+            },
+            {
+              "question_number": 47,
+              "question_text": "Question 47",
+              "dialogue": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Response A"
+                },
+                {
+                  "option": "B",
+                  "text": "Response B"
+                },
+                {
+                  "option": "C",
+                  "text": "Response C"
+                }
+              ],
+              "correct_answer": "FALSE"
+            },
+            {
+              "question_number": 48,
+              "question_text": "Question 48",
+              "dialogue": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Response A"
+                },
+                {
+                  "option": "B",
+                  "text": "Response B"
+                },
+                {
+                  "option": "C",
+                  "text": "Response C"
+                }
+              ],
+              "correct_answer": "TRUE"
+            },
+            {
+              "question_number": 49,
+              "question_text": "Question 49",
+              "dialogue": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Response A"
+                },
+                {
+                  "option": "B",
+                  "text": "Response B"
+                },
+                {
+                  "option": "C",
+                  "text": "Response C"
+                }
+              ],
+              "correct_answer": "FALSE"
+            },
+            {
+              "question_number": 50,
+              "question_text": "Question 50",
+              "dialogue": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Response A"
+                },
+                {
+                  "option": "B",
+                  "text": "Response B"
+                },
+                {
+                  "option": "C",
+                  "text": "Response C"
+                }
+              ],
+              "correct_answer": "FALSE"
+            }
+          ]
+        },
+        {
+          "part_number": 4,
+          "part_title": "第四部分",
+          "description": "第 51-60 题",
+          "question_type": "READING_COMPREHENSION",
+          "instructions": "阅读短文回答问题",
+          "questions": [
+            {
+              "question_number": 51,
+              "question_text": "Question 51",
+              "passage": null,
+              "question": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Answer A"
+                },
+                {
+                  "option": "B",
+                  "text": "Answer B"
+                },
+                {
+                  "option": "C",
+                  "text": "Answer C"
+                }
+              ],
+              "correct_answer": "F"
+            },
+            {
+              "question_number": 52,
+              "question_text": "Question 52",
+              "passage": null,
+              "question": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Answer A"
+                },
+                {
+                  "option": "B",
+                  "text": "Answer B"
+                },
+                {
+                  "option": "C",
+                  "text": "Answer C"
+                }
+              ],
+              "correct_answer": "D"
+            },
+            {
+              "question_number": 53,
+              "question_text": "Question 53",
+              "passage": null,
+              "question": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Answer A"
+                },
+                {
+                  "option": "B",
+                  "text": "Answer B"
+                },
+                {
+                  "option": "C",
+                  "text": "Answer C"
+                }
+              ],
+              "correct_answer": "C"
+            },
+            {
+              "question_number": 54,
+              "question_text": "Question 54",
+              "passage": null,
+              "question": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Answer A"
+                },
+                {
+                  "option": "B",
+                  "text": "Answer B"
+                },
+                {
+                  "option": "C",
+                  "text": "Answer C"
+                }
+              ],
+              "correct_answer": "A"
+            },
+            {
+              "question_number": 55,
+              "question_text": "Question 55",
+              "passage": null,
+              "question": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Answer A"
+                },
+                {
+                  "option": "B",
+                  "text": "Answer B"
+                },
+                {
+                  "option": "C",
+                  "text": "Answer C"
+                }
+              ],
+              "correct_answer": "B"
+            },
+            {
+              "question_number": 56,
+              "question_text": "Question 56",
+              "passage": null,
+              "question": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Answer A"
+                },
+                {
+                  "option": "B",
+                  "text": "Answer B"
+                },
+                {
+                  "option": "C",
+                  "text": "Answer C"
+                }
+              ],
+              "correct_answer": "E"
+            },
+            {
+              "question_number": 57,
+              "question_text": "Question 57",
+              "passage": null,
+              "question": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Answer A"
+                },
+                {
+                  "option": "B",
+                  "text": "Answer B"
+                },
+                {
+                  "option": "C",
+                  "text": "Answer C"
+                }
+              ],
+              "correct_answer": "C"
+            },
+            {
+              "question_number": 58,
+              "question_text": "Question 58",
+              "passage": null,
+              "question": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Answer A"
+                },
+                {
+                  "option": "B",
+                  "text": "Answer B"
+                },
+                {
+                  "option": "C",
+                  "text": "Answer C"
+                }
+              ],
+              "correct_answer": "D"
+            },
+            {
+              "question_number": 59,
+              "question_text": "Question 59",
+              "passage": null,
+              "question": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Answer A"
+                },
+                {
+                  "option": "B",
+                  "text": "Answer B"
+                },
+                {
+                  "option": "C",
+                  "text": "Answer C"
+                }
+              ],
+              "correct_answer": "A"
+            },
+            {
+              "question_number": 60,
+              "question_text": "Question 60",
+              "passage": null,
+              "question": null,
+              "options": [
+                {
+                  "option": "A",
+                  "text": "Answer A"
+                },
+                {
+                  "option": "B",
+                  "text": "Answer B"
+                },
+                {
+                  "option": "C",
+                  "text": "Answer C"
+                }
+              ],
+              "correct_answer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2025-10-29",
+    "source": "mandarinbean.com",
+    "hsk_level": 2,
+    "total_listening_questions": 35,
+    "total_reading_questions": 25,
+    "has_audio": true,
+    "has_images": true,
+    "note": "HSK 2 has different structure: 35 listening + 25 reading = 60 total"
+  }
+}
